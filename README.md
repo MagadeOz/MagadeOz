@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miranda (@MagadeOz).
+- 👋 Hi!
 - 👀 I’m interested in handmade soapmaking, traveling and enjoying life.
 - 🌱 I’m currently learning Java and REST APIs.
 - 💞️ I’m looking to keep learning and becoming a better programmer.
